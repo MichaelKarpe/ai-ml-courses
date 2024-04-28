@@ -1,4 +1,4 @@
-# List of selected AI/ML courses at UC Berkeley & Stanford University
+# List of AI/ML courses at UC Berkeley & Stanford University
 
 *Non-exhaustive list of AI/ML courses I spotted while studying at UC Berkeley in Fall 2019 & Spring 2020.*
 
